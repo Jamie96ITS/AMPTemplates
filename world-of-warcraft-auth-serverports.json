@@ -4,6 +4,6 @@
     "Port": "3724",
     "Name": "Auth Server Port",
     "Description": "Port used for authentication traffic",
-    "Ref": "AuthServerPort"
+    "Ref": "MainGamePort"
     }
 ]
