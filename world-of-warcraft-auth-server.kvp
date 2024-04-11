@@ -2,6 +2,7 @@ Meta.DisplayName=World of Warcraft Auth Server
 Meta.Description=WoW Private Server
 Meta.Arch=x86_64
 Meta.Author=Jamie96ITS
+Meta.AppConfigId=da2ff764-f02b-46bd-8bcb-2570735f4a38
 Meta.URL=https://www.igdb.com/games/world-of-warcraft-wrath-of-the-lich-king
 Meta.MinAMPVersion=2.4.6.6
 Meta.SpecificDockerImage=
